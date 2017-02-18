@@ -1,7 +1,6 @@
 require_relative '../earthquake'
 require 'haversine'
 require 'rspec'
-require 'byebug'
 
 describe Earthquake do
   describe '#initialize' do
